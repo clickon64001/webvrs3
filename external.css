@@ -1,0 +1,69 @@
+
+
+
+
+h1{ color: 	#DC143C;}
+body{background-color: antiquewhite; }
+
+p{
+  color: 	#DC143C;
+}
+hr{
+
+     border-style:none;
+     border-color:darkslategray;
+     border-top-style: dotted;
+     border-width:6px;
+     width:20%;
+
+  }
+.mick
+{
+  color: #ff4365;
+}
+.nick:hover
+{
+  background-color: #ffe66d;
+  border-radius:100%;
+}
+
+.pick
+{
+  color: #ff4365;
+}
+.puck:hover
+{
+  background-color: #ffe66d;
+
+  border-radius:100%;
+}
+
+.swam
+{
+
+  color: #ff4365;
+
+}
+.steam:hover
+{
+ background-color: #ffe66d;
+
+ border-radius:100%;
+}
+
+.van
+{
+  background-color: #596e79;
+  border-radius:100%;
+}
+
+
+.can
+{
+  background-color: #ffe66d;
+  border-radius:100%;
+}
+
+.sam{
+  background-color:#ff847c;
+}
